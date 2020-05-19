@@ -17,7 +17,7 @@
 3. cd to ClientApp folder and run > `npm install`
 4. run the .sln project from VS2017/2019
 5. cd to LDA folder
-	-to run model creation, run > `python learn.py`
-	-to run the driver script for the created model, run > `python driver.py`
+	- to run model creation, run > `python learn.py`
+	- to run the driver script for the created model, run > `python driver.py`
 
 
