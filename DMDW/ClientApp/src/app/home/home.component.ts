@@ -14,16 +14,16 @@ export class HomeComponent {
   showBars = false;
   topics = [];
   topicNames = [
-    "123",
-    "123",
-    "123",
-    "123",
-    "123",
-    "123",
-    "123",
-    "123",
-    "123",
-    "123",
+    "Clothes",
+    "Sport",
+    "-",
+    "People",
+    "-",
+    "-",
+    "Medical/Viruses",
+    "Blogs",
+    "Food",
+    "Articles",
   ]
   types = [
     "success",
