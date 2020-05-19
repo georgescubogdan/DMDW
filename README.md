@@ -1,5 +1,6 @@
 # Proiect DMDW
 
+
 ##### Authors
 - Bogdan Georgescu, SSA
 - Andreea Ionescu, SPF
@@ -20,4 +21,4 @@
 	- to run model creation, run > `python learn.py`
 	- to run the driver script for the created model, run > `python driver.py`
 
-
+###### Project GitHub page available [here](https://github.com/georgescubogdan/DMDW "here")
